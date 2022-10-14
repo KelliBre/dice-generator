@@ -1,0 +1,20 @@
+*{
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+.container{
+    padding: 7% 5%;
+}
+
+h1{
+    font-size: 2.25em;
+
+}
+
+h2{
+    font-style: italic;
+}
+
+.btn{
+    text-transform: uppercase;
+}
